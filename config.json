@@ -1,0 +1,73 @@
+{
+    "language": "vi",
+    "keyActive": "",
+    "DeveloperMode": false,
+    "autoCreateDB": true,
+    "allowInbox": true,
+    "autoClean": false,
+    "adminOnly": false,
+    "commandDisabled": [],
+    "eventDisabled": [],
+    "EMAIL": "",
+    "PASSWORD": "",
+    "OTPKEY": "",
+    "BOTNAME": "",
+    "PREFIX": "!",
+    "ADMINBOT": [
+        "UIDFacebook"
+    ],
+    "DATABASE": {
+        "sqlite": {
+            "storage": "data.sqlite"
+        }
+    },
+    "APPSTATEPATH": "appstate.json",
+    "FCAOption": {
+        "forceLogin": true,
+        "listenEvents": true,
+        "pauseLog": true,
+        "logLevel": "error",
+        "selfListen": true,
+        "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Safari/537.36"
+    },
+    "version": "1.2.15",
+    "daily": {
+        "cooldownTime": 300000
+    },
+    "fbvideo": {
+        "API_KEY": "mzk_0TSSI3V5YV58D4OSR8C"
+    },
+    "help": {
+        "autoUnsend": true,
+        "delayUnsend": 20
+    },
+    "pokemon": {
+        "APIKEY": ""
+    },
+    "sing": {
+        "YOUTUBE_API": "AIzaSyBZjYk2QtAvsZjAzUJ5o4qGl8eRl6gr2SA"
+    },
+    "tenngaunhien": {
+        "APIKEY": "mi451266190"
+    },
+    "weather": {
+        "OPEN_WEATHER": "196ac91264f90df6590b46309556229f"
+    },
+    "work": {
+        "cooldownTime": 600000
+    },
+    "ytvideo": {
+        "API_KEY": "mzk_0TSSI3V5YV58D4OSR8C"
+    },
+    "ảnh": {
+        "cooldownTime": 1200000
+    },
+    "adminUpdate": {
+        "autoUnsend": true,
+        "sendNoti": true,
+        "timeToUnsend": 10
+    },
+    "log": {
+        "enable": true
+    }
+}
